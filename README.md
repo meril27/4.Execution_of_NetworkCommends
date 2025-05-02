@@ -76,32 +76,17 @@ traceroute_simulation('google.com')
 
 ## Output
 
-PING using python command:
+PING command:
 
 ![Screenshot 2025-05-02 002555](https://github.com/user-attachments/assets/17401289-68b2-4e2d-b000-67113c6bdb41)
 
 
 TRACEROUTE command:
 
-![Screenshot 2025-05-02 001825](https://github.com/user-attachments/assets/cca1c2ba-a4d4-4961-bf69-d263d6333482)
+![Screenshot 2025-05-02 094242](https://github.com/user-attachments/assets/57e50afe-70c5-4fac-b6a3-f6434ccd9fdf)
 
-ping:
-
-![Screenshot 2025-05-02 003017](https://github.com/user-attachments/assets/ffcd3951-87a7-4c97-91d0-93dd6893dfd9)
-
-netstat:
-
-![Screenshot 2025-05-02 003218](https://github.com/user-attachments/assets/b986fa0e-76f3-480e-9cb0-51fdb76981f1)
-
-ipconfig:
-
-![Screenshot 2025-05-02 003304](https://github.com/user-attachments/assets/c560fae2-bba6-4efd-9b00-27670f5affae)
-
-nslookup:
-
-cpdump:
 
 
 
 ## Result
-Thus Execution of Network commands Performed 
+Thus Execution of Network commands Performed.
